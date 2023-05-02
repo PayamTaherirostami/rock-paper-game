@@ -1,0 +1,45 @@
+#players img{
+    width: 150px;
+    height: 150px;
+}
+#player {
+    border-radius: 30;
+    color: black;
+}
+#selectedPlayer img{
+    width: 50px;
+    height: 50px;
+}
+#compChoice img{
+    width: 100px;
+    height: 100px;
+}
+#yourChoice img{
+    width: 100px;
+    height: 100px;
+}
+#finalResult{
+    color: chocolate;
+}
+button{
+    width: 100px;
+    height: 40px;
+    color:blue;
+    border-radius: 10px;
+    margin-left: 5px;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+h1{
+    color: red;
+    margin-bottom: 50px;
+}
+body{
+    background-color:rgb(237, 232, 227);
+
+}#wraper{
+    font-size: 1.2rem;
+}
+
+
+
