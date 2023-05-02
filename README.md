@@ -10,6 +10,10 @@
 * createElement()
 * appendChild()
 * addEventListener()
-* setTimeOut()
+* getElementById()
+* forEach()
+* innerHTML()
+* push()
+
 
 # Let's play the game <a href="https://rock-paper-scissors-game-beta-sandy.vercel.app/"/>here!
