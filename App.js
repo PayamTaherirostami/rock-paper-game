@@ -75,9 +75,6 @@ const finalResult = () =>{
             draw+=1
         }    
     }
-    // for test:
-    // console.log (final) 
-    // console.log ({"You won:": winer,"Computer won": looser,"draw":draw})
     if (winer === looser){
         fFf = "Draw"
    } 
